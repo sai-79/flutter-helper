@@ -1,8 +1,4 @@
 {
-  "status": "success",
-  "screen": "home",
-  "tabs": [
-    { "id": 1, "title": "Dashboard" },
-    { "id": 2, "title": "Profile" }
-  ]
+  "status" : 200,
+  "target_page" : "aadharPage"
 }
